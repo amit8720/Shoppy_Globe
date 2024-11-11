@@ -1,4 +1,4 @@
-# I craeted this app using React + Vite
+# I created this app using React + Vite
 
 ShoppyGlobe is a basic e-commerce application built with React. It includes key components like a product list, cart, and product details, along with routing and state management via Redux. The application fetches data from an external API, handles errors gracefully, and includes features like search and responsive design.
 
